@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/jpmereaotermin](www.linkedin.com/in/jpmereaotermin)
 
+
+
 <table border="0">
  <tr>
     <td><h3 align="center"> Language and Tools</h3></td>
@@ -26,9 +28,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jpmereaotermin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jpmereaotermin/" height="30" width="30" /></a>
 <a href="https://kaggle.com/juan pablo merea otermin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="juan pablo merea otermin" height="30" width="30" /></a>
 <a href="https://instagram.com/juan_pablo_merea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juan_pablo_merea" height="30" width="30"></p></td>
- </tr>
+</tr>
 </table>
 
 <p>&nbsp;<img "width="120" height="147" align="center" src="https://github-readme-stats.vercel.app/api?username=jp-merea&show_icons=true&locale=en" alt="jp-merea"> <img "width="120" height="147" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jp-merea&show_icons=true&locale=en&layout=compact" alt="jp-merea" /></p>
+
 
 
