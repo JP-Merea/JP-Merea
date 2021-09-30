@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jp-merea&label=Profile%20views&color=0e75b6&style=flat" alt="jp-merea" /> </p>
 
-- 🔭 I’m currently working on [MooDy](https://github.com/JP-Merea/MooDy)
+- 🔭 I’m currently working on [MooDy](https://github.com/JP-Merea/MooDy) 's project
 
-- 🌱 I’m learning **Everything I can !**
+- 🌱 I’m learning **everyday to be my best version!**
 
 - 💬 Ask me about **Anything I can help you**
 
