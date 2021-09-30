@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-<p>&nbsp;<img "width="120" height="147" align="center" src="https://github-readme-stats.vercel.app/api?username=jp-merea&show_icons=true&locale=en" alt="jp-merea"> <img "width="120" height="147" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jp-merea&show_icons=true&locale=en&layout=compact" alt="jp-merea" /></p>
+<p>&nbsp;<img "width="120" height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=jp-merea&show_icons=true&locale=en" alt="jp-merea"> <img "width="120" height="140" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jp-merea&show_icons=true&locale=en&layout=compact" alt="jp-merea" /></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jp-merea&label=Profile%20views&color=0e75b6&style=flat" alt="jp-merea" /> </p>
 
