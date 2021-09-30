@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jp-merea&show_icons=true&locale=en" alt="jp-merea"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jp-merea&show_icons=true&locale=en&layout=compact" alt="jp-merea" /></p>
 
 
-
-
