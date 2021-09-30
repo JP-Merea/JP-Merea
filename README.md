@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jp-merea&show_icons=true&locale=en" alt="jp-merea" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jp-merea&" alt="jp-merea" /></p>
+
