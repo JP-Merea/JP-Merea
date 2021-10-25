@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-Analytical  and  motivated,  I  live  every  day  trying  to  be  my  best  version.  I  love  learning  and  challenges.
+<h5 align="center">Analytical  and  motivated,  I  live  every  day  trying  to  be  my  best  version.  I  love  learning  and  challenges.</h5>
+
 
 - 🔭 I’m currently working on [MooDy](https://github.com/JP-Merea/MooDy) 's project
 
