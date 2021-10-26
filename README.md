@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [MooDy](https://github.com/JP-Merea/MooDy) 's project
 
-- 🌱 I’m learning **everyday **
+- 🌱 I’m learning **everyday**
 
 - 💬 Ask me about **Anything I can help you**
 
