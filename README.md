@@ -4,7 +4,7 @@
 <h5 align="center">Analytical  and  motivated,  I  live  every  day  trying  to  be  my  best  version.  I  love  learning  and  challenges.</h5>
 
 
-- 🔭 I’m currently working on [MooDy](https://github.com/JP-Merea/MooDy) 's project
+- 🔭 I’m currently working at Konvi 
 
 - 🌱 I’m learning **everyday**
 
