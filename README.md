@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist & Engineer</h3>
 
 <h5 align="center">Analytical  and  motivated,  I  live  every  day  trying  to  be  my  best  version.  I  love  learning  and  challenges.</h5>
 
